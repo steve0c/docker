@@ -1,4 +1,4 @@
-
+#
 FROM node:6-alpine
 
 # NOTE: The instructions are now in the README.md file in this directory.
